@@ -12,5 +12,5 @@
 
 * ### [Lumiglo:](https://github.com/tarang-soni/tarang-soni/blob/main/Portfolio/Projects/Lumiglo.md) 
 * ### [Overlap:](https://github.com/tarang-soni/tarang-soni/blob/main/Portfolio/Projects/Overlap.md) 
-* ### [The Plot:](https://github.com/tarang-soni/tarang-soni/blob/main/Portfolio/Projects/Space_Wreck.md)
-* ### Space Wreck:
+* ### [Space Wreck:](https://github.com/tarang-soni/tarang-soni/blob/main/Portfolio/Projects/Space_Wreck.md)
+* ### [The Plot:](https://github.com/tarang-soni/tarang-soni/blob/main/Portfolio/Projects/The_Plot.md)
