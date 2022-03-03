@@ -8,3 +8,17 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with SDL and OpenGL Documentation
 - 💬 Ask me about Coding and Games
 - 📫 How to reach me: Gmail - sonitarang1@gmail.com
+
+# Portfolio
+
+## Skillset
+
+* Unity3d
+* c#
+* c++
+
+## My Projects
+* Space Wreck
+* Lumiglo
+* The Plot
+* Overlap
