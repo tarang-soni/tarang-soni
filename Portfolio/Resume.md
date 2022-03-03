@@ -26,6 +26,6 @@
   * *Worked on Metaverse based project*
  
 ## Portfolio
+* Click [here](https://github.com/tarang-soni/tarang-soni/blob/main/Portfolio/Portfolio.md) to check out my portfolio!
 
-* Click here to check out my portfolio!
 
