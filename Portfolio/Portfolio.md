@@ -9,7 +9,7 @@
   
 ## My Projects:
 
-* ### Lumiglo:
-* ### Overlap:
+* ### [Lumiglo:](https://github.com/tarang-soni/tarang-soni/edit/main/Portfolio/Projects/Lumiglo.md) 
+* ### [Overlap:](https://github.com/tarang-soni/tarang-soni/edit/main/Portfolio/Projects/Overlap.md) 
 * ### The Plot:
 * ### Space Wreck:
