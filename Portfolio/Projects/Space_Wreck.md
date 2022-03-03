@@ -16,4 +16,3 @@
 
 ### Link to the Game:
 [Click here!](https://play.google.com/store/apps/details?id=com.zer0rezstudios.space_wreck)
-)
