@@ -5,4 +5,4 @@
 
 ## Contact:
 * Email ID: sonitarang1@gmail.com
-* ![580b57fcd9996e24bc43c521](https://user-images.githubusercontent.com/83337255/156588541-c3009b1d-cc73-4d0a-8022-68931c183878.png)
+* <img src="https://user-images.githubusercontent.com/83337255/156588541-c3009b1d-cc73-4d0a-8022-68931c183878.png" alt="instagram" width="200"/>
