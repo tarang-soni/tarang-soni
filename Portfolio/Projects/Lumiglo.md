@@ -12,5 +12,7 @@
 ### Achievements:
 
 <img src="https://user-images.githubusercontent.com/83337255/156593699-684ab382-49b4-446f-84ba-2ee6933f4aad.jpeg" alt="screenshot" width="300"/> 
-
+* This game was nominated in Top 5 Finalists in IGDC Student Game Of The Year.
+* My first game to cross 100 downloads!
+* Solo game project: Including art.
  
