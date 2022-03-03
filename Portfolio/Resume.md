@@ -1,4 +1,4 @@
-# Portfolio
+# Resume
 
 ## Intro:
 >Hello there!
