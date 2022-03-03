@@ -10,5 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Gmail - sonitarang1@gmail.com
 
 ## Portfolio
+* Check out my Portfolio by clicking [here!](https://github.com/tarang-soni/tarang-soni/blob/main/Portfolio/Portfolio.md)
 
 
