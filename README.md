@@ -9,16 +9,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Coding and Games
 - 📫 How to reach me: Gmail - sonitarang1@gmail.com
 
-# Portfolio
+## Portfolio
 
-## Skillset
 
-* Unity3d
-* c#
-* c++
-
-## My Projects
-* Space Wreck
-* Lumiglo
-* The Plot
-* Overlap
