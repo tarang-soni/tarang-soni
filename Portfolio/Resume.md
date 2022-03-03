@@ -25,3 +25,7 @@
 
   * *Worked on Metaverse based project*
  
+## Portfolio
+
+* Click here to check out my portfolio!
+
