@@ -4,5 +4,5 @@
 >Hi!! I'm Tarang Soni. Currently, I’m pursuing B. Sc. In Gaming at Jain University, Bangalore. I'm a Game developer. I am always ready to take up new tasks and quickly adapt to new needs and places. I consider myself a team player and quickly pick up new software.
 
 ## Contact:
-* Email ID: sonitarang1@gmail.com
-* [<img src="https://user-images.githubusercontent.com/83337255/156588541-c3009b1d-cc73-4d0a-8022-68931c183878.png" alt="instagram" width="20"/>](https://www.instagram.com/_zer0rez_/)
+* Email ID: 
+* [<img src="https://user-images.githubusercontent.com/83337255/156588541-c3009b1d-cc73-4d0a-8022-68931c183878.png" alt="instagram" width="20"/>](https://www.instagram.com/_zer0rez_/)  [<img src="https://user-images.githubusercontent.com/83337255/156589284-c10cc810-85a8-4896-a05f-a46f4d10bc95.png"alt="gmail" width="20"/>](sonitarang1@gmail.com) 
