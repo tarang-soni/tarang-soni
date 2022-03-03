@@ -15,3 +15,6 @@
 * This game was nominated in Top 5 Finalists in IGDC Student Game Of The Year.
 * My first game to cross 100 downloads!
 * Solo game project: Including art.
+
+### Link to the Game:
+[Click here!](https://play.google.com/store/apps/details?id=com.zer0rezstudios.Lumiglo)
