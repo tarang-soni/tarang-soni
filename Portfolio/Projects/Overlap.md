@@ -13,7 +13,7 @@
 ### Achievements:
 
 * This game won one of the best game mechanic in Global Game Jam Chennai.
-* My first game to cross 100 downloads!
+* We made this game within 1 day.
 * Group game project;
 
 ### Link to the Game:
