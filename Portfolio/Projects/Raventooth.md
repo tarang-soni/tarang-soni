@@ -15,4 +15,4 @@
 * made in c++
 
 ### Link to the Game:
-[Click here!](https://play.google.com/store/apps/details?id=com.zer0rezstudios.Lumiglo)
+[Click here!](https://github.com/tarang-soni/Raventooth)
