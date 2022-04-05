@@ -31,7 +31,7 @@
 * Click [here](https://github.com/tarang-soni/tarang-soni/blob/main/Portfolio/Portfolio.md) to check out my portfolio!
 
 ## Experience Letters:
-* Click [here](https://github.com/tarang-soni/tarang-soni/blob/main/Portfolio/Portfolio.md) to check out my experience letter!
+* Click [here](https://github.com/tarang-soni/tarang-soni/tree/main/Portfolio/Experience%20Letters) to check out my experience letters!
 
 
 
