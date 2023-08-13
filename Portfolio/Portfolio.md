@@ -1,7 +1,7 @@
 # Portfolio
 
 ## About me:
->Hi!! I'm Tarang Soni. Currently, I’m pursuing B. Sc. In Gaming at Jain University, Bangalore. I'm a Game developer. I am always ready to take up new tasks and quickly adapt to new needs and places. I consider myself a team player and quickly pick up new software.
+>Hello! I am Tarang Soni, an accomplished Game Developer with a diverse background in the gaming industry. Over the course of 1.7 years, I have cultivated a comprehensive skill set through a combination of professional roles, internships, and freelance projects. With a dedicated year of professional work experience, coupled with 5 months of valuable internship exposure and an additional 2 months of freelancing ventures, I have garnered a well-rounded understanding of game development. My journey thus far has been defined by a relentless pursuit of excellence, a passion for innovative gameplay, and an unwavering commitment to creating exceptional gaming experiences.
 
 ## Contact:
 > [<img src="https://user-images.githubusercontent.com/83337255/156588541-c3009b1d-cc73-4d0a-8022-68931c183878.png" alt="instagram" width="20"/>](https://www.instagram.com/_zer0rez_/) [@_zer0rez_](https://www.instagram.com/_zer0rez_/)
