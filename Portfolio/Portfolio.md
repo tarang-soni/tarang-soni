@@ -18,5 +18,5 @@
 * ### [Space Wreck:](https://github.com/tarang-soni/tarang-soni/blob/main/Portfolio/Projects/Space_Wreck.md)
 * ### [The Plot:](https://github.com/tarang-soni/tarang-soni/blob/main/Portfolio/Projects/The_Plot.md)
 * ### [orbit:](https://github.com/tarang-soni/tarang-soni/blob/main/Portfolio/Projects/orbit.md)
-* ### [Snake:]([https://github.com/tarang-soni/tarang-soni/blob/main/Portfolio/Projects/orbit.md](https://github.com/tarang-soni/opengl_framework/tree/Snake)https://github.com/tarang-soni/opengl_framework/tree/Snake)
-*  (No photos available for snake game)
+* ### [Snake:](https://github.com/tarang-soni/opengl_framework/tree/Snake) (No photos available for snake game)
+* 
