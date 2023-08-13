@@ -1,31 +1,10 @@
 # Resume
 
 ## Intro:
->Hello there!
->I'm Tarang Soni. An Aspiring Game Developer!
+>Hello! I am Tarang Soni, an accomplished Game Developer with a diverse background in the gaming industry. Over the course of 1.7 years, I have cultivated a comprehensive skill set through a combination of professional roles, internships, and freelance projects. With a dedicated year of professional work experience, coupled with 5 months of valuable internship exposure and an additional 2 months of freelancing ventures, I have garnered a well-rounded understanding of game development. My journey thus far has been defined by a relentless pursuit of excellence, a passion for innovative gameplay, and an unwavering commitment to creating exceptional gaming experiences.
 
-## Achievements:
-* I was amongst top 5 finalist contestant in IGDC Student Game of the Year!
-* Our team got selected for one of the best game mechanics in Global Game Jam Chennai!
-
-## Skills:
-* Unity3d
-* C#
-* C++
-
-## Work Experience
-
-* #### Game Developer Intern
-  > Unitile Studios | May 2021 - August 2021
-
-  * *Worked on several different client projects*
-  * *Handled studio development activities including pitching to publishers and developing infrastructure*
-  * *Collaborates with Creative Director on special Projects*
-
-* #### Game Developer Intern
-  > NeoMarche | October 2021 - November 2021
-
-  * *Worked on Metaverse based project*
+## Resume Link:
+*Click [here]() to check out my resume!
  
 ## Portfolio
 * Click [here](https://github.com/tarang-soni/tarang-soni/blob/main/Portfolio/Portfolio.md) to check out my portfolio!
