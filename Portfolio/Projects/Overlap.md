@@ -24,5 +24,5 @@
 
 ### Link to the Game:
 
-[Click here!](https://globalgamejam.org/2022/games/overlap-8) (Windows game jam build which was made in 1 day)
-[Click here!](https://drive.google.com/drive/folders/1hOriiqWx8btxj6sUlC_asVMOXzaHyqsM?usp=sharing) (Updated Multiplayer Android build)
+* [Click here!](https://globalgamejam.org/2022/games/overlap-8) (Windows game jam build which was made in 1 day)
+* [Click here!](https://drive.google.com/drive/folders/1hOriiqWx8btxj6sUlC_asVMOXzaHyqsM?usp=sharing) (Updated Multiplayer Android build)
