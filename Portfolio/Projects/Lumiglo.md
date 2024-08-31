@@ -17,4 +17,4 @@
 * Solo game project: Including art.
 
 ### Link to the Game:
-[Click here!](https://play.google.com/store/apps/details?id=com.zer0rezstudios.Lumiglo)
+[Click here!](https://drive.google.com/drive/folders/119TtfDO9YOuAV8npjCQUVdFAnPEcGc2d?usp=sharing)
