@@ -15,4 +15,4 @@
 * Group game project.
 
 ### Link to the Game:
-[Click here!](https://juggaadgamingindustry.itch.io/the-plot)
+[Click here!](https://drive.google.com/drive/folders/1G_-TOS1aF1ttmMJaA2cmSdriOug9FXQ-?usp=drive_link)
